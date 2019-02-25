@@ -1,0 +1,28 @@
+body {
+    /* background: url("../images/background.jpeg"); */
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+}
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+body {
+    width: 1024px;
+}
+#heading {
+    margin: auto;
+    width: 50%
+}
+#time-remaining {
+    float: left;
+}
+#counter {
+    float: right;
+}
